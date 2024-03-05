@@ -196,7 +196,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: #ffffff;
+  background-color: #f58a11;
 }
 .flower__white-circle::after {
   content: "";
